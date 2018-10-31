@@ -19,6 +19,6 @@
   display: none;
 }
 
-#wall#wall div.parent div:last-child div#tag-6 {
+#wall#wall .parent div:last-child #tag-6 {
   display: none;
 }
